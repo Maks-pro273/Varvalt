@@ -1,0 +1,6327 @@
+{
+  "tfc:stonecutting/rock/diorite_raw_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:17:10 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/sequoia": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/ghaf": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_drakkar": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-06-23 18:37:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-21 23:46:30 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/black_willow": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/add_large_bait": {
+    "criteria": {
+      "has_item": "2025-06-19 18:37:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-21 18:55:30 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/pine": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:45 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_cracked_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:26 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/persimmon": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-09-19 22:27:43 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/wenge": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/marblewood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/red_smooth": {
+    "criteria": {
+      "has_item": "2025-06-21 11:40:47 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/maple_slab": {
+    "criteria": {
+      "has_item": "2025-10-03 20:46:49 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_red_from_white": {
+    "criteria": {
+      "has_hammock": "2025-06-17 12:33:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2025-08-10 21:17:12 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/white_mangrove": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/alder": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/holly": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-21 23:46:30 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/kapok": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/common_oak": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/angelim": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/fever": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/hickory": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/hickory": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/ginkgo": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/red_smooth_wall": {
+    "criteria": {
+      "has_item": "2025-06-21 11:40:45 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/pink_ipe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:world/hunter": {
+    "criteria": {
+      "special_condition": "2025-06-21 23:34:59 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/birch_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/common_oak": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/blackwood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-06-22 13:47:38 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_smooth_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:22 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/nest_box": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/sweetgum": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/logwood": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-12 14:10:01 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/laurel": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/blackwood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-09-20 18:34:53 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_mossy_cobble_wall": {
+    "criteria": {
+      "has_item": "2025-09-22 17:41:13 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/red_elm": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/teak": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_smooth_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:22 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/mahoe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-19 19:50:03 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/iroko": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-21 18:55:30 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/sloe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_cobble_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:45 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/redstone/tripwire_hook": {
+    "criteria": {
+      "has_item": "2025-06-21 11:20:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/diorite_raw_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:17:10 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/messmate": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/pine_lectern": {
+    "criteria": {
+      "has_item": "2025-08-10 21:52:06 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/willow": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-08 16:44:45 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/orange_unfired_large_vessel": {
+    "criteria": {
+      "has_item": "2025-06-22 13:52:55 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/cypress": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_cracked_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:26 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/douglas_fir_wood": {
+    "criteria": {
+      "has_item": "2025-06-26 14:56:21 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_chiseled": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:44 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/mahogany": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/black_willow": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/rowan": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/white_cedar": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-04 11:44:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-19 16:37:23 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/african_padauk": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-12 14:10:01 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/palm": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-06-19 18:48:25 +0300"
+    },
+    "done": true
+  },
+  "locksmith:recipes/redstone/grindstone/blank_lock_button": {
+    "criteria": {
+      "has_lock_button": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:33 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_brick": {
+    "criteria": {
+      "has_item": "2025-06-29 12:49:09 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/nordmann_fir": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/red_elm": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/purple_jacaranda": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_raw_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:19 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-06-19 18:48:25 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/argyle_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/sloe": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:45 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/maple_scribing_table": {
+    "criteria": {
+      "has_item": "2025-10-03 20:46:49 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_mossy_cobble_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-21 23:46:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/spruce_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/aspen": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/argyle_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "locksmith:recipes/tools/blank_lock": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/light_gray_unfired_vessel": {
+    "criteria": {
+      "has_item": "2025-06-22 13:56:02 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/sycamore": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/diorite_raw_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:17:10 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/bald_cypress": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/yellow_ipe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-06-22 13:52:55 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/chert_cobble_wall": {
+    "criteria": {
+      "has_item": "2025-06-21 15:00:38 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/black_unfired_vessel": {
+    "criteria": {
+      "has_item": "2025-08-10 21:17:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-21 18:55:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-19 18:55:41 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/brown_cut_stairs": {
+    "criteria": {
+      "has_item": "2025-07-03 17:03:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_lime_dye": "2025-06-29 15:25:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-06-22 13:47:38 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/raw_stone": {
+    "criteria": {
+      "stone": "2025-06-19 16:01:19 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/jabuticabeira": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/white_cedar": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/redstone/minecart": {
+    "criteria": {
+      "has_item": "2025-06-21 11:20:46 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_smooth_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-19 19:50:03 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/walnut": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/pink_ivory": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-22 11:57:57 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_hardened": {
+    "criteria": {
+      "has_item": "2025-06-19 16:23:14 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/redstone/steel_hopper": {
+    "criteria": {
+      "has_item": "2025-06-21 11:20:46 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/red_unfired_large_vessel": {
+    "criteria": {
+      "has_item": "2025-06-19 19:47:14 +0300"
+    },
+    "done": true
+  },
+  "tfc:world/adventuring_time": {
+    "criteria": {
+      "mountains": "2025-09-24 18:02:04 +0300",
+      "plains": "2025-08-04 11:44:58 +0300",
+      "hills": "2025-08-08 12:06:40 +0300"
+    },
+    "done": false
+  },
+  "astikorcarts:crafting/wheel/red_cedar": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/palm": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/butternut": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-09-20 12:40:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-06-19 19:56:10 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/ironwood": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/aspen_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/root": {
+    "criteria": {
+      "in_game_condition": "2025-06-17 11:54:05 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/purpleheart": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/wenge": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_smooth": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:19 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silt_mud_8": {
+    "criteria": {
+      "has_item": "2025-06-20 11:52:09 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/kauri": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/wheat_dough_8": {
+    "criteria": {
+      "has_item": "2025-06-19 21:50:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/wheat_dough_7": {
+    "criteria": {
+      "has_item": "2025-06-19 21:50:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silt_mud_6": {
+    "criteria": {
+      "has_item": "2025-06-20 11:52:09 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_cobble_to_loose_rocks": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:45 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/wheat_dough_6": {
+    "criteria": {
+      "has_item": "2025-06-19 21:50:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silt_mud_7": {
+    "criteria": {
+      "has_item": "2025-06-20 11:52:09 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/oak_wood": {
+    "criteria": {
+      "has_item": "2025-06-20 13:20:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/buxus": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silt_mud_4": {
+    "criteria": {
+      "has_item": "2025-06-20 11:52:09 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silt_mud_5": {
+    "criteria": {
+      "has_item": "2025-06-20 11:52:09 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silt_mud_2": {
+    "criteria": {
+      "has_item": "2025-06-20 11:52:09 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/red_cypress": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silt_mud_3": {
+    "criteria": {
+      "has_item": "2025-06-20 11:52:09 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/juniper": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/wheat_dough_1": {
+    "criteria": {
+      "has_item": "2025-06-19 21:50:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_raw_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:19 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/argyle_eucalyptus": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-06-26 14:48:09 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/pink_smooth_wall": {
+    "criteria": {
+      "has_item": "2025-06-21 15:12:24 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/wheat_dough_5": {
+    "criteria": {
+      "has_item": "2025-06-19 21:50:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/wheat_dough_4": {
+    "criteria": {
+      "has_item": "2025-06-19 21:50:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/wheat_dough_3": {
+    "criteria": {
+      "has_item": "2025-06-19 21:50:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/kapok_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/wheat_dough_2": {
+    "criteria": {
+      "has_item": "2025-06-19 21:50:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/brown_smooth_wall": {
+    "criteria": {
+      "has_item": "2025-06-21 15:12:44 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/teak": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/hemlock": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/sequoia": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/alder": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:world/all_crops": {
+    "criteria": {
+      "soybean": "2025-08-09 14:00:08 +0300",
+      "garlic": "2025-08-09 14:00:19 +0300",
+      "oat": "2025-07-07 20:45:24 +0300",
+      "green_bean": "2025-07-09 12:13:08 +0300",
+      "cabbage": "2025-08-09 14:00:14 +0300",
+      "onion": "2025-07-09 12:12:41 +0300",
+      "barley": "2025-06-20 12:39:31 +0300",
+      "tomato": "2025-07-09 12:13:20 +0300",
+      "maize": "2025-08-06 13:46:28 +0300",
+      "squash": "2025-07-09 12:13:14 +0300",
+      "potato": "2025-07-09 12:13:10 +0300",
+      "beet": "2025-08-09 14:00:12 +0300",
+      "rye": "2025-07-07 20:45:22 +0300",
+      "carrot": "2025-07-09 12:13:05 +0300"
+    },
+    "done": false
+  },
+  "tfc:crafting/vanilla/redstone/hopper": {
+    "criteria": {
+      "has_item": "2025-06-21 11:20:46 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/redwood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/pine_wood": {
+    "criteria": {
+      "has_item": "2025-08-04 11:44:58 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/holly": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/mahogany": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_4": {
+    "criteria": {
+      "has_item": "2025-07-07 20:50:22 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_3": {
+    "criteria": {
+      "has_item": "2025-07-07 20:50:22 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_6": {
+    "criteria": {
+      "has_item": "2025-07-07 20:50:22 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_5": {
+    "criteria": {
+      "has_item": "2025-07-07 20:50:22 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_2": {
+    "criteria": {
+      "has_item": "2025-07-07 20:50:22 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_1": {
+    "criteria": {
+      "has_item": "2025-07-07 20:50:22 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/kapok": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow_from_white": {
+    "criteria": {
+      "has_hammock": "2025-06-17 12:33:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/rainbow_eucalyptus": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/palm_fence_gate": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-06-19 18:48:25 +0300"
+    },
+    "done": true
+  },
+  "tfc:world/bed": {
+    "criteria": {
+      "beds": "2025-06-19 19:26:40 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_mossy_cobble_stairs": {
+    "criteria": {
+      "has_item": "2025-09-22 17:41:13 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/white_mangrove": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/palm_door": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_cobble_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:45 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/mahoe": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/maclura": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_8": {
+    "criteria": {
+      "has_item": "2025-07-07 20:50:22 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/sandy_loam_mud_7": {
+    "criteria": {
+      "has_item": "2025-07-07 20:50:22 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/pine_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/rubber_fig": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-22 11:57:57 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/iroko": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-22 11:57:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-20 12:40:53 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/sorb": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/handstone": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:19 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/birch": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/douglas_fir_workbench": {
+    "criteria": {
+      "has_item": "2025-06-21 15:13:11 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/logwood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-19 19:26:43 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/hickory_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/oak_button": {
+    "criteria": {
+      "has_item": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/whitebeam": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/black_unfired_large_vessel": {
+    "criteria": {
+      "has_item": "2025-08-10 21:17:12 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/diorite_smooth": {
+    "criteria": {
+      "has_item": "2025-06-19 16:17:10 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/beech": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta_from_white": {
+    "criteria": {
+      "has_hammock": "2025-06-17 12:33:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-09-19 22:27:43 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/hazel": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/marblewood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/douglas_fir_stairs": {
+    "criteria": {
+      "has_item": "2025-06-21 15:13:11 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/red_raw_stairs": {
+    "criteria": {
+      "has_item": "2025-06-21 11:40:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-19 19:26:43 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/common_oak": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-06-17 12:32:52 +0300",
+      "has_sleeping_bag": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/ebony": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/red_mangrove": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/metal/fishing_rod/copper": {
+    "criteria": {
+      "has_item": "2025-06-19 18:39:06 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/douglas_fir_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/birch_lumber_planks": {
+    "criteria": {
+      "has_item": "2025-06-19 16:40:51 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/rowan": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/norway_spruce": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/welding": {
+    "criteria": {
+      "double_ingots": "2025-06-29 12:56:24 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple_from_white": {
+    "criteria": {
+      "has_hammock": "2025-06-17 12:33:05 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-19 16:37:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-06-19 19:47:14 +0300"
+    },
+    "done": true
+  },
+  "tfc:world/bread": {
+    "criteria": {
+      "sandwich_bread": "2025-06-20 12:39:43 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/flux": {
+    "criteria": {
+      "has_item": "2025-06-24 15:44:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-10 21:17:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-06-22 13:47:38 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_smooth_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:22 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/maple": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/persimmon": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/birch_scribing_table": {
+    "criteria": {
+      "has_item": "2025-06-19 16:40:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-19 19:50:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-12 14:10:01 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/douglas_fir": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/diorite_raw_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:17:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/maple_boat": {
+    "criteria": {
+      "has_item": "2025-10-03 20:46:49 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/poplar": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-19 19:43:59 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_mossy_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:28 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/greenheart": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/leather": {
+    "criteria": {
+      "leather": "2025-06-21 18:55:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/silt_mud_1": {
+    "criteria": {
+      "has_item": "2025-06-20 11:52:09 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/rowan": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/palm": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/white_cherry_blossom": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_mossy_cobble_wall": {
+    "criteria": {
+      "has_item": "2025-09-22 17:41:13 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/norway_spruce": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/bald_cypress": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_raw_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:19 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/blue_steel": {
+    "criteria": {
+      "metal_item/blue_steel": "2025-06-22 14:07:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-19 18:55:41 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/cake": {
+    "criteria": {
+      "has_item": "2025-06-19 21:50:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-06-19 19:47:14 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/blackwood_lumber_log": {
+    "criteria": {
+      "has_item": "2025-06-26 14:56:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_cracked_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_cracked": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:45 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/sequoia_wood": {
+    "criteria": {
+      "has_item": "2025-06-26 14:56:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-06-19 19:56:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/sheet": {
+    "criteria": {
+      "sheets": "2025-06-21 11:20:46 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/hornbeam": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/douglas_fir_lumber_log": {
+    "criteria": {
+      "has_item": "2025-06-26 14:56:21 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan_from_white": {
+    "criteria": {
+      "has_hammock": "2025-06-17 12:33:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/rosewood_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/alder": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/acacia": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/butternut": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/sweetgum": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/white_cherry_blossom": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-06-19 18:55:58 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/ginkgo": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_raw_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:23:14 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_mossy_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/white_elm": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-21 23:46:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/whitebeam": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/wenge": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-19 16:37:23 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/douglas_fir": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/diorite_raw_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:17:10 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/african_padauk": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/chert_cobble_to_loose_rocks": {
+    "criteria": {
+      "has_item": "2025-06-21 15:00:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-27 23:47:07 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink_from_white": {
+    "criteria": {
+      "has_hammock": "2025-06-17 12:33:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/zebrawood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/black_walnut": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/white_cedar_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/black_willow": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/red_smooth_stairs": {
+    "criteria": {
+      "has_item": "2025-06-21 11:40:45 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/pink_ipe": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/palm_trapdoor": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/barley_dough_8": {
+    "criteria": {
+      "has_item": "2025-06-20 12:39:39 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/barley_dough_7": {
+    "criteria": {
+      "has_item": "2025-06-20 12:39:39 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/barley_dough_6": {
+    "criteria": {
+      "has_item": "2025-06-20 12:39:39 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/barley_dough_5": {
+    "criteria": {
+      "has_item": "2025-06-20 12:39:39 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/holly": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/barley_dough_4": {
+    "criteria": {
+      "has_item": "2025-06-20 12:39:39 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/barley_dough_3": {
+    "criteria": {
+      "has_item": "2025-06-20 12:39:39 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/barley_dough_2": {
+    "criteria": {
+      "has_item": "2025-06-20 12:39:39 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/dough/barley_dough_1": {
+    "criteria": {
+      "has_item": "2025-06-20 12:39:39 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/redwood": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/white_ipe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/pear": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/cocobolo": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/hawthorn": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/messmate": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-19 19:26:43 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_raw_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:19 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/purpleheart": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/iroko": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-09-20 12:40:53 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/bow": {
+    "criteria": {
+      "has_item": "2025-06-28 13:31:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/nordmann_fir": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/jabuticabeira": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/palm_sluice": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wattle": {
+    "criteria": {
+      "has_item": "2025-06-17 12:34:14 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/african_padauk": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/birch": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-06-20 11:55:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-28 13:31:06 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/rainbow_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-19 18:55:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-22 11:57:57 +0300"
+    },
+    "done": true
+  },
+  "tfc:world/metallurgist": {
+    "criteria": {
+      "steel": "2025-06-21 15:29:08 +0300",
+      "blue_steel": "2025-06-22 14:07:51 +0300",
+      "gold": "2025-06-19 21:45:15 +0300",
+      "bismuth_bronze": "2025-06-19 18:35:51 +0300",
+      "copper": "2025-06-19 18:36:47 +0300",
+      "cast_iron": "2025-06-21 11:24:42 +0300",
+      "wrought_iron": "2025-06-17 12:35:17 +0300",
+      "black_steel": "2025-08-10 17:00:00 +0300",
+      "bronze": "2025-06-19 18:39:43 +0300",
+      "silver": "2025-06-19 21:45:47 +0300",
+      "red_steel": "2025-06-19 18:37:28 +0300"
+    },
+    "done": false
+  },
+  "tfc:crafting/wood/birch_button": {
+    "criteria": {
+      "has_item": "2025-06-19 16:40:51 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/teak": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/purple_ipe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:45 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:45 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/ash_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-19 19:26:43 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/mahogany": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/palm_planks": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-06-17 12:34:14 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/oak_workbench": {
+    "criteria": {
+      "has_item": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-08-08 16:44:45 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/mahogany": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/red_mangrove": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-20 12:40:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/sycamore_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-08 16:44:45 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/white_ipe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-19 19:26:43 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/rowan": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/red_smooth_slab": {
+    "criteria": {
+      "has_item": "2025-06-21 11:40:45 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/poplar": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/kapok_lumber_log": {
+    "criteria": {
+      "has_item": "2025-06-26 14:56:49 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/pink_ivory": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-21 18:55:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-19 19:26:43 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/hazel": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/larch": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/limba": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/douglas_fir_scribing_table": {
+    "criteria": {
+      "has_item": "2025-06-21 15:13:11 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/mulberry": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/juniper": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-19 19:26:43 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_smooth_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:22 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/maple": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/rubber_fig": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-19 16:37:23 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/kapok": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/sloe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/birch_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:40:51 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/chert_cobble_wall": {
+    "criteria": {
+      "has_item": "2025-06-21 15:00:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 21:45:33 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/find_rock": {
+    "criteria": {
+      "rock_knapping": "2025-06-20 22:02:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-06-19 19:47:14 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/yellow_meranti": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/pine": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-19 19:26:43 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/oak_lumber_planks": {
+    "criteria": {
+      "has_item": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/white_jacaranda": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/yellow_ipe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_mossy_cobble_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:30 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/poplar": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/maple_lumber_planks": {
+    "criteria": {
+      "has_item": "2025-10-03 20:46:49 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/red_raw_wall": {
+    "criteria": {
+      "has_item": "2025-06-21 11:40:47 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/red_mangrove": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/acacia": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/mulberry": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-21 23:46:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wooden_bucket": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/medlar": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/white_cedar": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_mossy_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/oak_lumber_log": {
+    "criteria": {
+      "has_item": "2025-06-20 13:20:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_cracked_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:26 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/oak": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/angelim": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-19 18:48:25 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/argyle_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/spindle": {
+    "criteria": {
+      "has_item": "2025-08-05 11:17:37 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/pink_ivory": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/wenge": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:world/coal": {
+    "criteria": {
+      "ore/bituminous_coal": "2025-06-19 18:55:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-21 23:46:30 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/purple_ipe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/bald_cypress": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/sycamore_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-06-20 12:26:07 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/snow_gum_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/red_mangrove": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/willow_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_mossy_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/palm_tool_rack": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/hornbeam": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/pine": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/spruce_lumber_log": {
+    "criteria": {
+      "has_item": "2025-06-26 14:56:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-20 12:40:53 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/quince": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/chestnut": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/mountain_ash": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/palm_sign": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/red_cedar": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-22 11:57:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_brown_dye": "2025-08-10 12:42:18 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/messmate": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_raw_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:19 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/red_unfired_vessel": {
+    "criteria": {
+      "has_item": "2025-06-19 19:47:14 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/birch": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "locksmith:recipes/tools/grindstone/blank_key": {
+    "criteria": {
+      "has_key": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/sloe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/marblewood": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/palm_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/chert_cobble_slab": {
+    "criteria": {
+      "has_item": "2025-06-21 15:00:38 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:45 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/jabuticabeira": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_mossy_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:48 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/flint_and_steel": {
+    "criteria": {
+      "flint_and_steel": "2025-06-19 18:45:27 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/lime_unfired_large_vessel": {
+    "criteria": {
+      "has_item": "2025-06-29 15:25:39 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/brown_smooth_slab": {
+    "criteria": {
+      "has_item": "2025-06-21 15:12:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-21 18:55:30 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/pink_ipe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-06-19 19:47:14 +0300"
+    },
+    "done": true
+  },
+  "tfc:world/wattle": {
+    "criteria": {
+      "wattle": "2025-09-23 22:55:23 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/poplar": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/blast_furnace": {
+    "criteria": {
+      "has_item": "2025-06-21 11:20:46 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown_from_white": {
+    "criteria": {
+      "has_hammock": "2025-06-17 12:33:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2025-06-19 19:56:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-08-08 16:44:45 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/crucible": {
+    "criteria": {
+      "crucible": "2025-06-21 11:18:47 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_cracked_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:26 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/white_unfired_vessel": {
+    "criteria": {
+      "has_item": "2025-06-19 19:50:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-19 16:41:29 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/stick_bunch": {
+    "criteria": {
+      "has_item": "2025-06-20 12:41:11 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/saw": {
+    "criteria": {
+      "saws": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/palm": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/mahoe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/ghaf": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/walnut": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/cypress": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/armor_stand": {
+    "criteria": {
+      "has_item": "2025-09-22 17:25:38 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:33 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/ebony": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-22 11:57:57 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/white_jacaranda": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/diorite_loose_rocks_to_cobble": {
+    "criteria": {
+      "has_item": "2025-06-29 12:50:15 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/blackwood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/rosewood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/gray_unfired_vessel": {
+    "criteria": {
+      "has_item": "2025-06-22 13:55:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-27 23:40:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-28 13:30:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/ironwood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-19 18:42:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-08 16:44:45 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/metal/pickaxe/copper": {
+    "criteria": {
+      "has_item": "2025-09-30 17:07:17 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/limba": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/palm_fence": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/red_cut_stairs": {
+    "criteria": {
+      "has_item": "2025-06-21 11:40:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-09-20 12:40:53 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/fever": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/white_elm": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/walnut": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_green_from_white": {
+    "criteria": {
+      "has_hammock": "2025-06-17 12:33:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/pink_cherry_blossom": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/aggregate": {
+    "criteria": {
+      "has_item": "2025-06-20 11:55:26 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/marblewood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-19 16:37:23 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/purple_jacaranda": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/oak_lectern": {
+    "criteria": {
+      "has_item": "2025-06-19 19:00:42 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/oak": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/hazel": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_brick": {
+    "criteria": {
+      "has_item": "2025-06-20 22:02:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/birch_boat": {
+    "criteria": {
+      "has_item": "2025-06-19 16:40:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_gray_dye": "2025-06-22 13:55:57 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/blue_unfired_large_vessel": {
+    "criteria": {
+      "has_item": "2025-06-19 19:56:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-06-22 13:56:02 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/larch": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/pink_cherry_blossom": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:world/nugget": {
+    "criteria": {
+      "nuggets": "2025-06-21 18:34:36 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/douglas_fir": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/pear": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/pine_lumber_log": {
+    "criteria": {
+      "has_item": "2025-08-04 11:44:58 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/teak": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-28 13:31:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-06-19 18:54:32 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/snow_gum_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/brazilwood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/red_cypress": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/baobab": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/white_mangrove": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-19 16:37:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/pear": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/chestnut_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "locksmith:recipes/tools/blank_key": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-19 18:04:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-06-19 14:04:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-21 23:46:30 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/yew": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_smooth_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:44 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/sycamore": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/blackwood_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/light_gray_unfired_large_vessel": {
+    "criteria": {
+      "has_item": "2025-06-22 13:56:02 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/yellow_jacaranda": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/steel_age": {
+    "criteria": {
+      "metal_item/steel": "2025-06-21 15:29:08 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/locust": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/bloomery": {
+    "criteria": {
+      "bloomery": "2025-06-21 11:17:10 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/sweetgum": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/quern": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-28 13:28:34 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/maple_stairs": {
+    "criteria": {
+      "has_item": "2025-10-03 20:46:49 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/quince": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2025-06-29 15:25:39 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/diorite_hardened": {
+    "criteria": {
+      "has_item": "2025-06-19 16:17:10 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/cocobolo": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/red_cypress": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/willow": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/hemlock": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_raw_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:23:14 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/persimmon": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/rubber_fig": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_cracked": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:33 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/acacia_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 21:45:33 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/syzygium": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/pink_ivory": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/purpleheart": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/kauri": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/white_cherry_blossom": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/sorb": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/persimmon": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/cypress": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/red_elm": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/hickory": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/white_jacaranda": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:world/minerologist": {
+    "criteria": {
+      "lignite": "2025-06-19 18:56:00 +0300",
+      "bituminous_coal": "2025-06-19 18:55:58 +0300"
+    },
+    "done": false
+  },
+  "tfc:crafting/wood/palm_loom": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/red_elm": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/oak_boat": {
+    "criteria": {
+      "has_item": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-06-19 18:48:25 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/acacia": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_mossy_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-21 23:46:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-19 19:26:43 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/quince": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/sycamore": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/spruce": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_cobble_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:45 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/bronze_age": {
+    "criteria": {
+      "metal_item/bismuth_bronze": "2025-06-19 18:35:51 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/yellow_meranti": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/black_dye_from_charcoal": {
+    "criteria": {
+      "has_item": "2025-06-19 18:55:27 +0300"
+    },
+    "done": true
+  },
+  "tfc:world/artist": {
+    "criteria": {
+      "light_gray": "2025-06-22 13:56:02 +0300",
+      "lime": "2025-06-29 15:25:39 +0300",
+      "black": "2025-08-10 21:17:12 +0300",
+      "brown": "2025-08-10 12:42:18 +0300",
+      "red": "2025-06-19 19:47:14 +0300",
+      "orange": "2025-06-22 13:52:55 +0300",
+      "gray": "2025-06-22 13:55:57 +0300",
+      "white": "2025-06-19 19:50:03 +0300",
+      "blue": "2025-06-19 19:56:10 +0300"
+    },
+    "done": false
+  },
+  "tfc:crafting/ceramic/gray_unfired_large_vessel": {
+    "criteria": {
+      "has_item": "2025-06-22 13:55:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-06-19 19:50:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-19 16:02:00 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/rosewood": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/logwood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/barrel": {
+    "criteria": {
+      "barrels": "2025-06-19 16:09:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/maple_workbench": {
+    "criteria": {
+      "has_item": "2025-10-03 20:46:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-10-03 21:16:43 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/sweetgum": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/metal/hoe/copper": {
+    "criteria": {
+      "has_item": "2025-10-03 21:47:24 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/ash": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/sorb": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_smooth_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:44 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/bellows": {
+    "criteria": {
+      "has_item": "2025-06-21 18:55:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/barley_sandwich": {
+    "criteria": {
+      "has_item": "2025-06-20 12:39:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-22 11:57:57 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/cocobolo": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/birch_workbench": {
+    "criteria": {
+      "has_item": "2025-06-19 16:40:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-08 16:44:45 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_mossy_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:28 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/ebony": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_mossy_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:48 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_raw_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:23:14 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/greenheart": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/white_unfired_large_vessel": {
+    "criteria": {
+      "has_item": "2025-06-19 19:50:03 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/birch_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:40:51 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/buxus": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/hornbeam": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-21 18:55:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/birch_lumber_log": {
+    "criteria": {
+      "has_item": "2025-08-04 11:44:58 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/rubber_fig": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/brazilwood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/beech": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-19 19:26:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/bellows": {
+    "criteria": {
+      "bellows": "2025-06-20 22:07:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-28 13:31:06 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/hazel": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray_from_white": {
+    "criteria": {
+      "has_hammock": "2025-06-17 12:33:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/crafting_table": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/sequoia": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/mountain_ash": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/redstone/powered_rail": {
+    "criteria": {
+      "has_item": "2025-06-19 21:45:15 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/limba": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "locksmith:recipes/redstone/blank_lock_button": {
+    "criteria": {
+      "has_blank_lock": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/chestnut_wood": {
+    "criteria": {
+      "has_item": "2025-06-26 14:56:51 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-19 16:37:23 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-19 19:26:43 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/powderkeg": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-20 12:40:53 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/medlar": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/firestarter": {
+    "criteria": {
+      "firestarter": "2025-06-20 12:23:26 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/oak_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-06-19 19:40:13 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/metal_anvil": {
+    "criteria": {
+      "metal/anvil/copper": "2025-06-20 21:50:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-19 16:37:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-22 11:57:57 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/white_cedar": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_mossy_cobble_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-19 19:43:59 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_gray_dye": "2025-06-22 13:56:02 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-19 16:37:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-07-09 12:22:37 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/yellow_jacaranda": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/red_cut": {
+    "criteria": {
+      "has_item": "2025-06-21 11:40:47 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/maclura": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-06-19 19:47:14 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/ironwood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/hickory": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/angelim": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_hardened": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:19 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_cracked_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/red_cut_slab": {
+    "criteria": {
+      "has_item": "2025-06-21 11:40:46 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/chert_cobble_stairs": {
+    "criteria": {
+      "has_item": "2025-06-21 15:00:38 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/yew": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "locksmith:recipes/decorations/locksmithing_table": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/maclura": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/black_steel": {
+    "criteria": {
+      "metal_item/black_steel": "2025-08-10 17:00:00 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/black_walnut": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/iroko": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/buxus": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/hemlock": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:33 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/hawthorn": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_cracked_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-19 16:37:23 +0300"
+    },
+    "done": true
+  },
+  "tfc:world/seeds": {
+    "criteria": {
+      "seeds": "2025-06-20 12:39:31 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/walnut": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/spruce_wood": {
+    "criteria": {
+      "has_item": "2025-06-26 14:56:20 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/white_mangrove": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/redwood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-20 13:26:25 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/yellow_ipe": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/yew": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 11:44:58 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_raw_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:23:14 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_mossy_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-20 14:23:43 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/syzygium": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/brown_unfired_large_vessel": {
+    "criteria": {
+      "has_item": "2025-08-10 12:42:18 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_smooth_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:44 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/greenheart": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/palm_chest": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-17 12:34:14 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/charcoal": {
+    "criteria": {
+      "charcoal": "2025-06-19 18:56:40 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/holly": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_cobble_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:45 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/douglas_fir": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/ash": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/black_walnut": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_cracked_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:26 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/sequoia_lumber_log": {
+    "criteria": {
+      "has_item": "2025-06-26 14:56:58 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/aspen": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-28 13:31:06 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/red_steel": {
+    "criteria": {
+      "metal_item/red_steel": "2025-06-19 18:37:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-28 13:29:41 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/kauri": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/pine": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/bald_cypress": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/african_padauk": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_raw_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:23:14 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/common_oak": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/alder": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray_from_white": {
+    "criteria": {
+      "has_hammock": "2025-06-17 12:33:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/hawthorn": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-06-22 13:47:38 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/butternut": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/cypress": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/composter": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_orange_dye": "2025-06-22 13:52:55 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/birch_wood": {
+    "criteria": {
+      "has_item": "2025-08-04 11:44:58 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_mossy_cobble_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-21 23:46:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-06-28 13:31:06 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/douglas_fir_boat": {
+    "criteria": {
+      "has_item": "2025-06-21 15:13:11 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/blast_furnace": {
+    "criteria": {
+      "blast_furnace": "2025-06-20 22:06:30 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/greenheart": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/white_ipe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/spruce": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/ash": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/brown_smooth_stairs": {
+    "criteria": {
+      "has_item": "2025-06-21 15:12:44 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/joshua": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/aspen": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/zebrawood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_bricks": {
+    "criteria": {
+      "has_item": "2025-08-08 11:45:08 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/chestnut": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/ultimate_goal": {
+    "criteria": {
+      "bucket": "2025-08-08 15:53:38 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/douglas_fir_button": {
+    "criteria": {
+      "has_item": "2025-06-21 15:13:11 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/red_raw_slab": {
+    "criteria": {
+      "has_item": "2025-06-21 11:40:47 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/ebony": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/rosewood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-21 23:46:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-19 19:50:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2025-06-17 11:54:31 +0300",
+      "minecraft:river": "2025-06-17 11:54:36 +0300",
+      "minecraft:ocean": "2025-06-19 14:16:36 +0300",
+      "minecraft:plains": "2025-06-17 11:54:04 +0300"
+    },
+    "done": false
+  },
+  "astikorcarts:crafting/plow/laurel": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/syzygium": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/chert_cobble_stairs": {
+    "criteria": {
+      "has_item": "2025-06-21 15:00:38 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/logwood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "solcarrot:recipes/food_book": {
+    "criteria": {
+      "has_book": "2025-06-17 12:32:52 +0300",
+      "has_carrot": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/beech": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/chestnut": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/oak_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/straw": {
+    "criteria": {
+      "has_item": "2025-06-19 19:26:56 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/red_cedar": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/red_cypress": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/medlar": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-21 23:46:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-21 18:55:30 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/messmate": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:33 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/orange_unfired_vessel": {
+    "criteria": {
+      "has_item": "2025-06-22 13:52:55 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/jabuticabeira": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-08-08 16:29:43 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/juniper": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/white_elm": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/baobab": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_smooth_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:44 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/acacia": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/sequoia": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-20 17:23:49 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_mossy_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-19 16:37:23 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/maple": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-06-17 12:32:52 +0300",
+      "has_sleeping_bag": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:45 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/knap_clay": {
+    "criteria": {
+      "unfired_pottery": "2025-06-19 16:57:42 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/black_walnut": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/blackwood": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-06-22 13:47:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-19 16:37:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-08-08 16:44:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-19 19:26:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-08-08 16:44:45 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/quince": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_loose_rocks_to_cobble": {
+    "criteria": {
+      "has_item": "2025-06-20 22:02:10 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/spruce": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/yew": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-19 19:50:03 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/juniper": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-08-10 12:42:18 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/larch": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_7": {
+    "criteria": {
+      "has_item": "2025-08-04 11:46:28 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/snow_gum_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_8": {
+    "criteria": {
+      "has_item": "2025-08-04 11:46:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_5": {
+    "criteria": {
+      "has_item": "2025-08-04 11:46:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_6": {
+    "criteria": {
+      "has_item": "2025-08-04 11:46:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_3": {
+    "criteria": {
+      "has_item": "2025-08-04 11:46:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-08 16:44:45 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_4": {
+    "criteria": {
+      "has_item": "2025-08-04 11:46:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_1": {
+    "criteria": {
+      "has_item": "2025-08-04 11:46:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/brown_cut_slab": {
+    "criteria": {
+      "has_item": "2025-07-03 17:03:38 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/soil/loam_mud_2": {
+    "criteria": {
+      "has_item": "2025-08-04 11:46:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-08-04 11:53:58 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_mossy_cobble_slab": {
+    "criteria": {
+      "has_item": "2025-09-22 17:41:13 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/palm_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/iron_armor": {
+    "criteria": {
+      "metal/chestplate/wrought_iron": "2025-06-17 12:35:19 +0300",
+      "metal/greaves/wrought_iron": "2025-06-17 12:35:17 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-28 13:31:06 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/whitebeam": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/maple_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-21 23:46:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-19 19:26:43 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/limba": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/flux": {
+    "criteria": {
+      "flux": "2025-06-21 11:24:53 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/pink_ipe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/medlar": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/maple_button": {
+    "criteria": {
+      "has_item": "2025-10-03 20:46:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2025-06-19 19:47:14 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/redstone/activator_rail": {
+    "criteria": {
+      "has_item": "2025-06-19 21:45:15 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/yellow_meranti": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/add_small_bait": {
+    "criteria": {
+      "has_item": "2025-06-19 18:37:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/palm_bookshelf": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/joshua": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/nordmann_fir": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/palm_log_fence": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/chert_cobble_slab": {
+    "criteria": {
+      "has_item": "2025-06-21 15:00:38 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/syzygium": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/cast_iron": {
+    "criteria": {
+      "metal/ingot/cast_iron": "2025-06-21 11:24:42 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/lectern": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/oak": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/diorite_raw_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:17:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_cobble_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-20 12:40:53 +0300"
+    },
+    "done": true
+  },
+  "locksmith:recipes/tools/grindstone/blank_lock": {
+    "criteria": {
+      "has_lock": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "beef": "2025-06-27 23:40:49 +0300"
+    },
+    "done": false
+  },
+  "astikorcarts:crafting/animal_cart/white_jacaranda": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/cauldron": {
+    "criteria": {
+      "has_item": "2025-06-21 11:20:46 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-19 19:43:59 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/ghaf": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/buxus": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/rainbow_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/douglas_fir_lumber_planks": {
+    "criteria": {
+      "has_item": "2025-06-21 15:13:11 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/fever": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/douglas_fir_slab": {
+    "criteria": {
+      "has_item": "2025-06-21 15:13:11 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/zebrawood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/white_elm": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/purple_jacaranda": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/kauri": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-19 16:37:23 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/ash": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/blackwood_wood": {
+    "criteria": {
+      "has_item": "2025-06-26 14:56:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/maclura": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-21 18:55:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-06-19 19:47:14 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/laurel": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/locust": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/propick": {
+    "criteria": {
+      "propicks": "2025-06-19 18:35:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/metal/anvil/copper": {
+    "criteria": {
+      "has_item": "2025-06-29 12:56:24 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/brazilwood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/baobab": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:33 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/copper_age": {
+    "criteria": {
+      "metal_item/copper_tools": "2025-06-19 18:37:04 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/norway_spruce": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/butternut": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/rainbow_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-19 19:25:46 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/shield": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/logging": {
+    "criteria": {
+      "logs": "2025-06-17 12:34:14 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/quern": {
+    "criteria": {
+      "quern": "2025-07-09 12:39:07 +0300",
+      "handstone": "2025-07-09 12:39:08 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_loose_rocks_to_cobble": {
+    "criteria": {
+      "has_item": "2025-06-29 12:49:09 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_mossy_cobble_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_cracked_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:26 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/pink_smooth_slab": {
+    "criteria": {
+      "has_item": "2025-06-21 15:12:24 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_cracked_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_chiseled": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:22 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/item_frame": {
+    "criteria": {
+      "has_item": "2025-06-21 18:55:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/kapok_wood": {
+    "criteria": {
+      "has_item": "2025-06-26 14:56:49 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/sycamore": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_black_from_white": {
+    "criteria": {
+      "has_hammock": "2025-06-17 12:33:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/snow_gum_eucalyptus": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_smooth_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:22 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/brown_unfired_vessel": {
+    "criteria": {
+      "has_item": "2025-08-10 12:42:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-09-19 22:27:43 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/zebrawood": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_raw_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:23:14 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/yellow_ipe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-09-20 12:40:53 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime_from_white": {
+    "criteria": {
+      "has_hammock": "2025-06-17 12:33:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/stick_from_twigs": {
+    "criteria": {
+      "has_item": "2025-06-20 12:41:11 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/beech": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange_from_white": {
+    "criteria": {
+      "has_hammock": "2025-06-17 12:33:05 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/ash_lumber_log": {
+    "criteria": {
+      "has_item": "2025-06-26 14:56:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-19 16:37:23 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/hornbeam": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/chestnut_lumber_log": {
+    "criteria": {
+      "has_item": "2025-06-26 14:56:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-28 13:30:12 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/granite_mossy_cobble_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:30 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/hemlock": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/locust": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-20 12:40:53 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/mulberry": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/purple_jacaranda": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-28 13:30:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-08-10 21:17:12 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/acacia_lumber_log": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-25 15:32:03 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/black_willow": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/angelim": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/mountain_ash": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/bowl": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/sorb": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/redwood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_raw_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:19 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/willow": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-28 13:31:06 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_cobble_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:45 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue_from_white": {
+    "criteria": {
+      "has_hammock": "2025-06-17 12:33:05 +0300"
+    },
+    "done": true
+  },
+  "tfcbarrels:crafting/wood/palm_barrel": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-07-09 12:22:37 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/ironwood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/ginkgo": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/oak": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/lime_unfired_vessel": {
+    "criteria": {
+      "has_item": "2025-06-29 15:25:39 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/norway_spruce": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/mulberry": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-08 16:44:45 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/maple": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_stairs": "2025-10-03 21:11:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_cracked_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:10 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/joshua": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/larch": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/hawthorn": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_mossy_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/oak_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/sequoia_support": {
+    "criteria": {
+      "has_item": "2025-06-22 14:21:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/spruce": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/yellow_jacaranda": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-19 16:37:23 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/purple_ipe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/shield": {
+    "criteria": {
+      "shields": "2025-06-19 18:36:47 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_cracked_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:10 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/mahoe": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/firestarter": {
+    "criteria": {
+      "has_item": "2025-06-20 12:41:11 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_smooth_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:44 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/chestnut": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_mossy_cobble_slab": {
+    "criteria": {
+      "has_item": "2025-09-22 17:41:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-17 12:34:14 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/oak_scribing_table": {
+    "criteria": {
+      "has_item": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-19 18:41:10 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/pink_smooth_stairs": {
+    "criteria": {
+      "has_item": "2025-06-21 15:12:24 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/blue_unfired_vessel": {
+    "criteria": {
+      "has_item": "2025-06-19 19:56:10 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/fever": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/brazilwood": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/kapok": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/red_cut_wall": {
+    "criteria": {
+      "has_item": "2025-06-21 11:40:46 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/armor_stand_bulk": {
+    "criteria": {
+      "has_item": "2025-09-22 17:25:38 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandstone/brown_cut_wall": {
+    "criteria": {
+      "has_item": "2025-07-03 17:03:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-09-19 22:27:43 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/baobab": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/pear": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/pickaxe": {
+    "criteria": {
+      "pickaxes": "2025-06-19 18:35:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-22 11:57:57 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/whitebeam": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-28 13:29:31 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/oak_slab": {
+    "criteria": {
+      "has_item": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/ash_lectern": {
+    "criteria": {
+      "has_item": "2025-08-10 16:50:23 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/willow": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/pink_cherry_blossom": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2025-06-22 13:55:57 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/pink_cherry_blossom": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-21 18:55:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-06-26 14:48:09 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue_from_white": {
+    "criteria": {
+      "has_hammock": "2025-06-17 12:33:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_mossy_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:01:28 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/purpleheart": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/aspen": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/ghaf": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/red_cedar": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/cocobolo": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/gabbro_smooth_wall": {
+    "criteria": {
+      "has_item": "2025-06-19 16:02:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-06-19 18:48:25 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/joshua": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/ladder": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/acacia_wood": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:54 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/palm_barrel": {
+    "criteria": {
+      "has_item": "2025-06-19 16:07:48 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/rosewood": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-21 23:46:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:story/mold": {
+    "criteria": {
+      "fired_molds": "2025-06-29 12:53:55 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/granite_smooth": {
+    "criteria": {
+      "has_item": "2025-06-19 16:23:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-28 13:30:12 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/nordmann_fir": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-19 19:26:43 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/laurel": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/supply_cart/white_cherry_blossom": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "tfc:stonecutting/rock/gabbro_mossy_cobble_stairs": {
+    "criteria": {
+      "has_item": "2025-09-22 17:41:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-21 23:46:30 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/diorite_brick": {
+    "criteria": {
+      "has_item": "2025-06-29 12:50:15 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/birch": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/white_ipe": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-19 16:37:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-21 18:55:31 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/yellow_jacaranda": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2025-06-19 15:47:28 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/ginkgo": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/ash_wood": {
+    "criteria": {
+      "has_item": "2025-06-26 14:56:18 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/locust": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/animal_cart/yellow_meranti": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "tfc:world/root": {
+    "criteria": {
+      "in_game_condition": "2025-06-17 11:54:05 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/plow/mountain_ash": {
+    "criteria": {
+      "has_wheel": "2025-06-17 12:32:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-19 19:26:43 +0300"
+    },
+    "done": true
+  },
+  "astikorcarts:crafting/wheel/purple_ipe": {
+    "criteria": {
+      "has_planks": "2025-06-19 16:10:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-27 23:47:07 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}

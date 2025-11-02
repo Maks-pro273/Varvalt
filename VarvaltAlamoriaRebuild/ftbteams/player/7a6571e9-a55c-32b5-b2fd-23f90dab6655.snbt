@@ -1,0 +1,17 @@
+{
+	id: "7a6571e9-a55c-32b5-b2fd-23f90dab6655"
+	type: "player"
+	player_name: "Max_pro273"
+	ranks: {
+		7a6571e9-a55c-32b5-b2fd-23f90dab6655: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Max_pro273"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFF359"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

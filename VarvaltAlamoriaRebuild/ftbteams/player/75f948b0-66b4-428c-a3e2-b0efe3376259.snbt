@@ -1,0 +1,17 @@
+{
+	id: "75f948b0-66b4-428c-a3e2-b0efe3376259"
+	type: "player"
+	player_name: "NIKwrp"
+	ranks: {
+		75f948b0-66b4-428c-a3e2-b0efe3376259: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "NIKwrp"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A5FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
